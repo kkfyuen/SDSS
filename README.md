@@ -1,1 +1,1 @@
-# SDSS
+# Data retrieved from SDSS
