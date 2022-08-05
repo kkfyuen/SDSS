@@ -4,5 +4,5 @@ More code files may be uploaded.
 
 Cite this work:
 
-KKF.Yuen, Towards a Hybrid Approach of Cognitive Pairwise Comparison and Deep Learning for Astronomical Objects Classification using Sloan 
-Digital Sky Survey Data, under review, 2021.
+KKF.Yuen (n.d.), Towards a Hybrid Approach of Cognitive Pairwise Comparison and Deep Learning for Astronomical Objects Classification using Sloan 
+Digital Sky Survey Data, under review.
